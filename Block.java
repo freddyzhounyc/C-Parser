@@ -2,11 +2,6 @@
  * The Block Class represents the different blocks in the C code read by the BlockTracer Class and implements a linked list to represent the variables in each block.
  *
  * @author Freddy Zhou
- *      Email: freddy.zhou@stonybrook.edu
- *      Stony Brook ID: 116580337
- *      HW #3 - C Parser
- *      CSE 214
- *      Recitation Number: R04 | TA Names: Veronica Oreshko, Anuj Sureshbhai, Alex Zuzow
  */
 import java.util.LinkedList;
 
