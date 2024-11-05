@@ -2,11 +2,6 @@
  * The BlockTracer Class handles the parsing of the C file and implements a stack to be able to hold each block of code.
  *
  * @author Freddy Zhou
- *      Email: freddy.zhou@stonybrook.edu
- *      Stony Brook ID: 116580337
- *      HW #3 - C Parser
- *      CSE 214
- *      Recitation Number: R04 | TA Names: Veronica Oreshko, Anuj Sureshbhai, Alex Zuzow
  */
 import java.io.File;
 import java.io.FileNotFoundException;
